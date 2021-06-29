@@ -10,7 +10,6 @@
 
 # Javascript:-
 
-#### 👉<a href="https://unknown-lad-2.github.io/Calculator/">Calculator_v1.0</a>,
 #### 👉<a href="https://unknown-lad-2.github.io/Music-Player/">Music Player_v1.0</a>,
 #### 👉<a href="https://unknown-lad-2.github.io/Tic-Tac-Toe/">Tic-Tac-Toe_v1.1</a>,
 <!-- #### 👉<a href="https://unknown-lad-2.github.io/Weather-Reporter/">Weather App_v1.3</a>, -->
