@@ -2,9 +2,6 @@
 
 ## Websites On Simple HTML & CSS
 #### 👉 <a href="https://unknown-lad-2.github.io/Cars-Site/">AM Motors Website</a>
-<!-- #### 👉<a href="">Blog Website</a>,    
-#### 👉<a href="">E-Commerece Website</a>,      -->
-
 
 ## Desings Based on HTML & CSS
 #### 👉<a href="https://unknown-lad-2.github.io/MLH_Project/">Cards Designs</a>,
@@ -21,9 +18,7 @@
 #### 👉<a href="https://unknown-lad-2.github.io/Todo-list/">Todo-list_v1.0</a>,
 
 ## Advance Projects
-<!-- #### 👉<a href="">Quiz App</a>,
-#### 👉<a href="">Music App</a>, 
-#### 👉<a href="">All My Projects In one page</a>,-->
+#### 0
 
 ## Websites Based on HTML, CSS, JS
 #### 👉 <a href="https://unknown-lad-2.github.io/Delivery_foods_site/">Foody Cums</a>,
